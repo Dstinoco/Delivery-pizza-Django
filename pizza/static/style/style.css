@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(240, 152, 203);
+}
+
+
+.barras {
+    background-color: rgb(236, 64, 164);
+}
+
+.botoes {
+    background-color: #6c3c0c;
+}
+
+
+
+.texto-marron {
+    color: #6c3c0c;
+}
+
+.escrita {
+    color: rgb(236, 64, 164);
+}
+
+
+.sombra {
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+    
+
+}
